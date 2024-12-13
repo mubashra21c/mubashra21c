@@ -1,5 +1,5 @@
 ## Hi there. 
-## I am MUBASHRA IRSHAD
+## 👀 I am MUBASHRA IRSHAD
 
 <!--
 **mubashra21c/mubashra21c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m participating in the Intechgration bootcamp.
-I'm currently learning web development.
+-🔭 I’m participating in the Intechgration bootcamp.
+-🌐 I'm currently learning web development.
